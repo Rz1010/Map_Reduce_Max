@@ -1,3 +1,5 @@
+//Using hadoop jar inputpath outputpath date1 date2 
+
 import java.io.IOException;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.FloatWritable;
